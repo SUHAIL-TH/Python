@@ -8,6 +8,7 @@ elif condition2:
 
 else: 
     # code block 3
+    if none of the conditon satisfies the conditon else block will execute
 ```
 
 1. If condition1 evaluates to true, code block 1 is executed.
